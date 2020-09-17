@@ -1,4 +1,5 @@
 import logo192 from './logo192.png'
+import britepeg from './britepeg.png'
 
 const projArr = [
     {
@@ -8,23 +9,11 @@ const projArr = [
         srcLink: "https://github.com/guy-black/guy-black.github.io",
         liveLink: "httpls://guy-black.github.io"
     },{
-        title: "idk some api thing",
-        picture: logo192,
-        desc: "built with html and css, with a little bit of javascript",
-        srcLink: "https://github.com/guy-black/guy-black.github.io",
-        liveLink: "httpls://guy-black.github.io"
-    },{
-        title: "calculator",
-        picture: logo192,
-        desc: "built with html and css, with a little bit of javascript",
-        srcLink: "https://github.com/guy-black/guy-black.github.io",
-        liveLink: "httpls://guy-black.github.io"
-    },{
-        title: "litebrite",
-        picture: logo192,
-        desc: "built with html and css, with a little bit of javascript",
-        srcLink: "https://github.com/guy-black/guy-black.github.io",
-        liveLink: "httpls://guy-black.github.io"
+        title: "Brite Pegs",
+        picture: britepeg,
+        desc: "Built with React, and Boardgame.io.  A simple app to pick a color, set your grid and peg size, and recreate all your lightbright masterpieces from your chilhood!",
+        srcLink: "https://github.com/guy-black/brite-pegs/tree/gh-pages",
+        liveLink: "https://guy-black.github.io/brite-pegs/"
     }
 
 ];
